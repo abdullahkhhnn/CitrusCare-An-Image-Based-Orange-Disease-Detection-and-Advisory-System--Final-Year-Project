@@ -54,7 +54,7 @@ The dataset was collected from real citrus farms under natural conditions, inclu
 - Leaves affected by aphids  
 - Leaves affected by leaf miner disease  
 
- Dataset will be published on Kaggle:  
+ Dataset will be published on Kaggle:  https://www.kaggle.com/datasets/superlord/citrus-diseases
 
 
 ---
